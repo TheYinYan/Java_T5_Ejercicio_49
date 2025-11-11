@@ -7,8 +7,7 @@ tendrá en cuenta en los cálculos. El programa debe indicar también cuántos
 números ha introducido el usuario (sin contar el primo que sirve para salir).
 Ejemplo:
 ```java
-Por favor, vaya introduciendo números enteros positivos. Para terminar, introduzca un número p\
-rimo:
+Por favor, vaya introduciendo números enteros positivos. Para terminar, introduzca un número primo:
 6
 8
 15
